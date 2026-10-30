@@ -1,0 +1,6 @@
+{
+  "name": "Cymbal Manufacturing Assistant",
+  "description": "Official Virtual Assistant for Cymbal Manufacturing, providing product information on storage containers, standard colors, custom machining protocols, and verified technical support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
